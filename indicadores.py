@@ -1,4 +1,4 @@
-import wbgapi as wb   # I use wb as a namespace in all my work
+import wbgapi as wb  
 import pandas as pd  
 import matplotlib.pyplot as plt
 import plotly.express as px
